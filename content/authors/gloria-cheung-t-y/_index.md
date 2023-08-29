@@ -1,11 +1,12 @@
 ---
 title: Gloria Cheung T Y
-avatar_filename: gloria-cheung-phd-232750.jpg
+avatar_filename: gloria-pic-edited-1mb.jpg
 interests:
-  - AuthoritarianPolitics
+  - Authoritarian Politics
 social: []
 organizations:
   - name: Duke University
+    url: http://www.duke.edu
 education:
   courses:
     - course: B.A. in Political Science
@@ -14,7 +15,7 @@ education:
     - course: PhD in Political Science
       institution: Duke University
       year: 2024
-superuser: true
+superuser: false
 ---
 I am a PhD candidate in the Political Science programme at Duke University. 
 
